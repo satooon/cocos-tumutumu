@@ -1,0 +1,33 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "privateKey": "",
+  "renderMode": "2",
+  "startScene": "59793016-6bfb-4f3b-a036-a817056dcdb2",
+  "title": "tumutumu",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "afbeab40-4004-45",
+  "zipCompressJs": true
+}
